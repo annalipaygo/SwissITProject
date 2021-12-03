@@ -1,0 +1,47 @@
+.main-header {
+    background: url(../img/pic12.png);
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+    color: #034909;
+  }
+  
+  .active-link {
+    color: #78e981;
+    font-weight: bold;
+  }
+  
+  .main-header .showcase {
+    padding-top: 100px;
+  }
+  
+  /* h5 {
+    font-family: 'Outfit', sans-serif;
+  } */
+  
+    
+  .primary-overlay {
+    background: green (112, 81, 176, 0.5);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+    
+  .main-header-inner {
+    background: url(../img/pic12.png);
+    min-height: 300px;
+    background-position: center;
+    background-size: cover;
+    color: rgb(3, 59, 15);
+  }
+  
+  .main-header-inner .showcase {
+    padding-top: 50px;
+  }
+  
+  
+  .btn-extend {
+    display: block;
+    width: 100%;
+  }
